@@ -22,3 +22,5 @@ Here: https://iriun.com/
 - download app for Android
 - install Teams app for desktop
 - run commands mentioned in this README.md (top)
+
+![Alt text](teams-external-webcam.png?raw=true "Teams detect external webcam")
