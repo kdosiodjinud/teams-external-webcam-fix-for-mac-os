@@ -4,7 +4,7 @@ Microsoft remove support for external webcams, you can fix it! :)
 ## This is the problem:
 https://techcommunity.microsoft.com/t5/microsoft-teams/7-17-2020-latest-teams-update-breaks-virtual-cameras-microsoft/m-p/1527271
 
-## And here is the solutions:
+## And here is the solution:
 
 ```sh
 $ xcode-select --install
