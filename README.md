@@ -1,4 +1,4 @@
-# teams-external-webcam-fix-for-mac-os
+# External (usb) cameras not working with Teams in MacOS
 Microsoft remove support for external webcams, you can fix it! :)
 
 ## This is the problem:
