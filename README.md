@@ -23,7 +23,9 @@ $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/F
 
 Here: https://iriun.com/
 - download app for Mac
-- download app for Android
+- download app for Android 
+-- you need enable "Developer options" and allow "USB debugging"
+-- how to enable Developer options: https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/
 - install Teams app for desktop
 - run commands mentioned in this README.md (top)
 
