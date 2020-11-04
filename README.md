@@ -23,4 +23,5 @@ Here: https://iriun.com/
 - install Teams app for desktop
 - run commands mentioned in this README.md (top)
 
+## Camera in action
 ![Alt text](teams-external-webcam.png?raw=true "Teams detect external webcam")
