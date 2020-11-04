@@ -14,3 +14,11 @@ $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/F
 $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Plugin).app"
 $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Renderer).app"
 ```
+
+## Use your Android phone as external usb webcam for MacOS
+
+Here: https://iriun.com/
+- download app for Mac
+- download app for Android
+- install Teams app for desktop
+- run commands mentioned in this README.md (top)
