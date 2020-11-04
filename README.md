@@ -22,10 +22,10 @@ $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/F
 ## Use your Android phone as external usb webcam for MacOS
 
 Here: https://iriun.com/
-- download app for Mac
-- download app for Android (you need enable "Developer options" and allow "USB debugging", how to enable Developer options: https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/)
-- install Teams app for desktop
-- run commands mentioned in this README.md (top)
+- *download app for Mac*
+- *download app for Android* (you need enable "Developer options" and allow "USB debugging", how to enable Developer options: https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/)
+- *install Teams app for desktop*
+- *run commands mentioned in this README.md* (top)
 
 ## Camera in action
 ![Alt text](teams-external-webcam.png?raw=true "Teams detect external webcam")
