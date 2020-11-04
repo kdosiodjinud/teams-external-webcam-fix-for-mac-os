@@ -7,7 +7,7 @@ https://techcommunity.microsoft.com/t5/microsoft-teams/7-17-2020-latest-teams-up
 ## And here is the solutions:
 
 ```sh
-$ xcode-select --install (only if you haven't already)
+$ xcode-select --install
 $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app"
 $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper.app"
 $ sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (GPU).app"
